@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotAid.AspNetCore.Security", "src\DotAid.AspNetCore.Security\DotAid.AspNetCore.Security.csproj", "{40814610-64C0-4AE0-8776-3BFA203F6C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotAid.AspNetCore.Security.Test", "tests\DotAid.AspNetCore.Security.Test\DotAid.AspNetCore.Security.Test.csproj", "{2B0286EA-60CD-46C4-B6B3-6ABBCD930518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40814610-64C0-4AE0-8776-3BFA203F6C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40814610-64C0-4AE0-8776-3BFA203F6C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40814610-64C0-4AE0-8776-3BFA203F6C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40814610-64C0-4AE0-8776-3BFA203F6C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0286EA-60CD-46C4-B6B3-6ABBCD930518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0286EA-60CD-46C4-B6B3-6ABBCD930518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0286EA-60CD-46C4-B6B3-6ABBCD930518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0286EA-60CD-46C4-B6B3-6ABBCD930518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
